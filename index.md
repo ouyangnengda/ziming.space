@@ -1,7 +1,7 @@
 
 ## Spring源码分析
 
-[Spring事件广播源码分析](https://{{ site.url }}/spring/Spring事件广播源码分析.html)
+[Spring事件广播源码分析]({{ "/spring/Spring事件广播源码分析.html" | absolute_url }})
 
 [SpringIOC源码分析](https://{{ site.url }}/spring/SpringIOC源码分析.html)
 
