@@ -1,10 +1,9 @@
-## ziming.space
 
 ## Spring源码分析
 
-[Spring事件广播源码分析](https://zimingsir.com/spring/Spring事件广播源码分析.html)
+[Spring事件广播源码分析](https://{{ site.url }}/spring/Spring事件广播源码分析.html)
 
-[SpringIOC源码分析](https://zimingsir.com/spring/SpringIOC源码分析.html)
+[SpringIOC源码分析](https://{{ site.url }}/spring/SpringIOC源码分析.html)
 
 [Spring从XML加载Bean源码分析](https://zimingsir.com/spring/Spring从XML加载Bean源码分析.html)
 
