@@ -22,6 +22,4 @@
 
 ## 杂谈
 
-[第一篇博客](https://{{ site.url }}/talk/第一篇博客.html)
-
 [我](https://{{ site.url }}/talk/我.html)
