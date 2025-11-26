@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 permalink: /:categories/:title.html
 url: "ziming.space"
+favicon: favicon.ico
